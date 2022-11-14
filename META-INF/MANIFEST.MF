@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: FriendV2
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2022-11-14T13:22:06+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
